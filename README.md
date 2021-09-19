@@ -23,5 +23,5 @@ In conclusion, rural areas tend to have higher average fares than all other city
 
   * Increase the mile charges in the urban cities. As shown on the "Total Fare by City Chart", drivers in urban cities are making less so increasing the fee will increase their earnings. 
   * If there are more riders in a city during a certain month, charge a little extra more.
-  * th
+  * Increase the Rural cities drivers there will be an increase in the total fares in the rural cities.
   
