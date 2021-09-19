@@ -5,6 +5,7 @@
 
 ## Results:
 
+Rural cities appear to be more expensive than urban ones in terms of fares per ride. The average ride fare in rural cities is about $34.62, while the average in urban cities is $24.53. Whereas the suburban city's average fare per ride was around $30.97.
 ![cl](https://user-images.githubusercontent.com/58860105/133939268-ce63e33f-2951-4279-b8f7-feadd70b0125.PNG)
 
 
