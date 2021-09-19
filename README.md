@@ -13,7 +13,7 @@ Rural cities appear to be more expensive than urban ones in terms of fares per r
 
 
 
-As shown in the below multiple-line chart "Total Fare by City Type," it provides trends for total fares in rural, suburban, and urban cities from January through April 2019. In the urban, the average fare in urban areas ranged from $1,650 to $2,400 from January through April. As seen on the Suburban line chart, each total fare (in dollars) ranges between $600 and $1450. The rural cities' total fares range from $300 from the beginning and increase to $500.
+As shown in the below multiple-line chart "Total Fare by City Type," it provides trends for total fares in rural, suburban, and urban cities from January through April 2019. In the urban, the average fare in urban areas ranged from $1,650 to $2,400 from January through April. As seen on the Suburban line chart, each total fare (in dollars) ranges between $600 and $1450. The rural cities' total fares range from $300 from the beginning and increase to $500 in the month of April.
 
 ![Fig8](https://user-images.githubusercontent.com/58860105/133939227-07655f9a-663a-4699-8c40-9394d3446aeb.png)
 
