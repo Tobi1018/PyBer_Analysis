@@ -21,4 +21,4 @@ As shown in the below multiple-line chart "Total Fare by City Type," it provides
 ## Summary:
 In conclusion, rural areas tend to have higher average fares than all other city types because there are fewer drivers in the rural areas, no one wants to drive here, and the travel time and distance are longer, which results in a higher average fare.
 
-  **Th
+  *Th
