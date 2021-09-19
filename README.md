@@ -5,7 +5,10 @@
 
 ## Results:
 
+![cl](https://user-images.githubusercontent.com/58860105/133939268-ce63e33f-2951-4279-b8f7-feadd70b0125.PNG)
 
+
+![Fig8](https://user-images.githubusercontent.com/58860105/133939227-07655f9a-663a-4699-8c40-9394d3446aeb.png)
 
 
 ## Summary:
