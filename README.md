@@ -21,6 +21,7 @@ As shown in the below multiple-line chart "Total Fare by City Type," it provides
 ## Summary:
 In conclusion, rural areas tend to have higher average fares than all other city types because there are fewer drivers in the rural areas, no one wants to drive here, and the travel time and distance are longer, which results in a higher average fare.
 
-  * Th
+  * Increase the mile charges in the urban cities. As shown on the "Total Fare by City Chart", drivers in urban cities are making less so increasing the fee will increase their earnings. 
+  * If there are more riders in a city during a certain month, charge a little extra more.
   * th
-  * y
+  
